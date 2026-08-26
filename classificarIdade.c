@@ -1,4 +1,4 @@
-/*Algoritmo que le um numero atraves de uma função e verifica se é impar ou par em outra função
+/*Algoritmo que le nome e idade e classifica a idade por meio de uma função
   Author: Kamilly Vitoria
   Data: 25/08/2026
 */
@@ -19,16 +19,16 @@ int main(){
 
 void classificarIdade(char nome [], int idade){
     if (idade < 3){
-        printf("BEBÊ \n");
+        printf("Seu nome é %s, você tem %d e é um bebê \n", nome, idade);
     } else if (idade < 13){
-        printf("CRIANÇA \n");
+        printf("Seu nome é %s, você tem %d e é uma criança \n", nome, idade);
     } else if (idade < 20){
-        printf("ADOLESCENTE \n");
+        printf("Seu nome é %s, você tem %d e é um adolescente \n", nome, idade);
     } else if (idade < 60){
-        printf("ADULTO \n");
+        printf("Seu nome é %s, você tem %d e é um adulto \n", nome, idade);
     } else if (idade < 91){
-        printf("IDOSO \n");
+        printf("Seu nome é %s, você tem %d e é um idoso \n", nome, idade);
     } else if (idade > 90){
-         printf("MATUSÁLEM \n");
+         printf("Seu nome é %s, você tem %d e é um matusálem \n", nome, idade);
     }
 }
