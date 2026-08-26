@@ -1,4 +1,4 @@
-/*Algoritmo que faz uma contagem regressiva em uma função atraves de um numero que o usuario escreveu
+/*Algoritmo que le um numero atraves de uma função e verifica se é impar ou par em outra função
   Author: Kamilly Vitoria
   Data: 25/08/2026
 */
