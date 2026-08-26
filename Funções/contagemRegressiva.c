@@ -1,4 +1,4 @@
-/*Algoritmo que calcula IMC atraves de uma função, essa função retona o resultado e uma mensagem
+/*Algoritmo que faz uma contagem regressiva em uma função atraves de um numero que o usuario escreveu
   Author: Kamilly Vitoria
   Data: 25/08/2026
 */
