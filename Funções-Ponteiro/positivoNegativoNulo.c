@@ -5,7 +5,7 @@
 */
 #include <stdio.h>
 
-//Sessão de importação
+//Sessão de prototipação
 void informarNumero(int);
 
 int main(){
